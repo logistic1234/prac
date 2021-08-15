@@ -1,1 +1,1 @@
-hlo
+print("hi")
